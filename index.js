@@ -1,4 +1,7 @@
 const { nextISSTimesForMyLocation } = require('./iss');
+/**
+ * All the codes below ought to be deleted but I have left them here intentionally for future reference. In a production environment, lines 5 to 35 below would be commented out.
+ */
 
 // const callback = function (error, ip) {
 //   if (error) {
@@ -9,8 +12,6 @@ const { nextISSTimesForMyLocation } = require('./iss');
 // }
 
 // fetchMyIP(callback)
-
-
 
 // const callback = function(error, coordinates) {
 //   if (error) {
